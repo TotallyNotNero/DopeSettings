@@ -12,7 +12,7 @@ DopeSettings_FILES = Tweak.xm
 DopeSettings_FRAMEWORKS = UIKit
 
 
-include ~/theos/makefiles/tweak.mk
+include $(THEOS)/makefiles/common.mk
 
 after-install::
 	install.exec "rm -f /private/var/mobile/Library/Preferences/xyz.xninja.dopesettings.plist"
