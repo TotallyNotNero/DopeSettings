@@ -1,4 +1,4 @@
-ARCHS = armv7 arm64
+ARCHS = armv7 arm64 arm64e
 # BUNDLE_NAME = defaults
 # defaults_INSTALL_PATH = /Library/Application Support/DopeSettings
 
