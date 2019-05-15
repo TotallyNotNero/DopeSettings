@@ -1,4 +1,6 @@
 # DopeSettings
+THIS FORK IS MEANT TO BE COMPILED ON iOS.
+
 Spice up the settings page
 
 Changes cell titles in settings app's main view
