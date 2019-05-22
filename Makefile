@@ -3,7 +3,7 @@ ARCHS = armv7 arm64 arm64e
 # defaults_INSTALL_PATH = /Library/Application Support/DopeSettings
 
 
-include $(THEOS)/makefiles/common.mk
+include ~/theos/makefiles/tweak.mk
 # include ~/theos/makefiles/bundle.mk
 
 
